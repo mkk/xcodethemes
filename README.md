@@ -32,6 +32,14 @@ My themes for Xcode IDE
 * Fresh
 
   <img src="https://s21.postimg.org/wb0hhitjr/image.png" width="288" />
+  
+* Dark and Smooth Bright
+
+  <img src="https://s18.postimg.org/kehq9vvah/image.png" width="288" />
+  
+* Deep blue
+
+  <img src="https://s18.postimg.org/sczb10pfd/image.png" width="288" />
 
   
 ### Installation
